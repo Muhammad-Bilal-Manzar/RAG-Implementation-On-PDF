@@ -6,3 +6,4 @@ python-dotenv
 faiss-cpu
 langchain-groq
 pypdf
+sentence-transformers
